@@ -77,11 +77,11 @@ GROUP BY product;
 
 ## Contact
 
-📧 Email: [your.email@example.com](abhisehekverma6290@gmail.com)
+📧 Email: [abhisehekverma6290@gmail.com]
 
 ## LinkedIn
 
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-verma-52603a313/))  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-verma-52603a313/)
 
 
 
